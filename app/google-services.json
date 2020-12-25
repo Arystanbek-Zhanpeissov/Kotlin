@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377582320848",
+    "firebase_url": "https://hotel-d0c5e-default-rtdb.firebaseio.com",
+    "project_id": "hotel-d0c5e",
+    "storage_bucket": "hotel-d0c5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377582320848:android:801b3068e37909dea1b2d5",
+        "android_client_info": {
+          "package_name": "com.example.milestone2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377582320848-kvm4cguti64cukbdrqp65d7gaor61poe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.milestone2",
+            "certificate_hash": "8e508cc7ea4d9966ddb9198860c56aca6dce09ab"
+          }
+        },
+        {
+          "client_id": "377582320848-2bkrvepolr7e1h2keogfumf2ntillic4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTV06XmVnKPHZYaP7XKileTzdQkiFcpIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377582320848-2bkrvepolr7e1h2keogfumf2ntillic4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
